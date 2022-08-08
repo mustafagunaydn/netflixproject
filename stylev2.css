@@ -60,6 +60,8 @@ textarea{
 
 .input-box{
     margin-top: 10px;
+    /* font-family: constella; */
+    /* font-size: 2rem; */
 }
 
 #form-button{
@@ -81,4 +83,9 @@ textarea{
 #form-button:hover{
     background-color:white;
     color: #ff0000;
+}
+
+@font-face {
+    font-family: constella ;
+    src: url(./fonts/Inspiration-Regular.ttf);
 }
